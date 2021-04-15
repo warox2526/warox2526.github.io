@@ -1,5 +1,12 @@
 import React from "react"
 import { Link } from "gatsby"
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import {
+  faEnvelope,
+} from '@fortawesome/free-solid-svg-icons'
+import {
+  faLinkedinIn,
+} from '@fortawesome/free-brands-svg-icons'
 
 const Layout = props => {
   const { title, children } = props
@@ -25,6 +32,13 @@ const Layout = props => {
             </div>
           </a>
           <nav id="swup" class="site-head-left">
+            <Link className="site-head-logo" to={`/`}>
+              {title}
+            </Link>
+          </nav>
+          <div className="site-head-center">
+          </div>
+          <div className="site-head-right">
             <ul className="nav" role="menu">
               <li className="nav-home nav-current" role="menuitem">
                 <Link to={`/`}>Home</Link>
@@ -36,39 +50,6 @@ const Layout = props => {
                 <Link to={`/elements`}>Elements</Link>
               </li>
             </ul>
-          </nav>
-          <div className="site-head-center">
-            <Link className="site-head-logo" to={`/`}>
-              {title}
-            </Link>
-          </div>
-          <div className="site-head-right">
-            <div className="social-links">
-              <a
-                href="https://www.facebook.com"
-                title="Facebook"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                Facebook
-              </a>
-              <a
-                href="https://twitter.com"
-                title="Twitter"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                Twitter
-              </a>
-              <Link
-                to={`/rss.xml`}
-                title="RSS"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                RSS
-              </Link>
-            </div>
           </div>
         </div>
       </header>
@@ -78,15 +59,8 @@ const Layout = props => {
         </div>
       </main>
       <footer className="site-foot">
-        &copy; {new Date().getFullYear()} <Link to={`/`}>{title}</Link> &mdash;
-        Built with{" "}
-        <a
-          href="https://gatsbyjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Gatsby
-        </a>
+        <a href="mailto:matthew.costa25@gmail.com"><FontAwesomeIcon icon={faEnvelope} size="2x" /></a>
+        <a href="http://linkedin.com/in/matthewcosta" target="_blank"><FontAwesomeIcon icon={faLinkedinIn} size="2x" /></a>
       </footer>
     </div>
   )
