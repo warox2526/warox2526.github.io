@@ -1,14 +1,10 @@
 ---
-title: Green
+title: The Bloodharbor Ripper
 date: "2019-05-03"
-thumbnail: ./dose-juice-1184429-unsplash.jpg
-description: For in the true nature of things, if we rightly consider, every green tree is far more glorious than if it were made of gold and silver.
+thumbnail: ./Pyke.jpg
+description: The Boogie Man of Bilgewater.  Pyke is driven by vengeance, but his madness is what makes him so scary.  He is a great character in his own right, but at the same time he makes the world of Bilgewater feel full and thus real.  He evokes imagery of fearful sailors telling ghost stories to their shipmates.  Never turn your back on the sea.  
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UjX7FAwc7lw?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![Green](./chuttersnap-564286-unsplash.jpg)
 
-![Green](./jazmin-quaynor-105210-unsplash.jpg)
-
-![Green](./josh-silver-730329-unsplash.jpg)
-
-![Green](./roman-bozhko-251947-unsplash.jpg)

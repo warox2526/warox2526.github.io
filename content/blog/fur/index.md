@@ -1,16 +1,9 @@
 ---
-title: The fur series
+title: Wild Magic
 date: "2019-05-01"
-thumbnail: ./charles-deluvio-550068-unsplash.jpg
-description: I have one pug and one Czechoslovakian dog called Prazsky krysarik.
+thumbnail: ./XayahRakan.jpg
+description: An ancient race emerges, taking us deeper into the world of Ionia and diverse complexities of this magical land.
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O4PDzBnBMU4?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-![Cute dog](./charles-deluvio-540415-unsplash.jpg)
-
-![Cute dog](./charles-deluvio-540418-unsplash.jpg)
-
-![Cute dog](./charles-deluvio-540420-unsplash.jpg)
-
-![Cute dog](./charles-deluvio-547196-unsplash.jpg)
-
+Xayah and Rakan have such a rich relationship dynamic that we leveraged that to pull people into the world of the Vastaya and leave them wanting more.

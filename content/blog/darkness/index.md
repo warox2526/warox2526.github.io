@@ -1,19 +1,15 @@
 ---
-title: Darkness
+title: Awaken
 date: "2019-05-08"
-thumbnail: ./bbbb.jpg
-description: Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.
+thumbnail: ./Sion_01.jpg
+description:  To create beauty, to feel alive, to protect the things they love, these are the reasons they fight.  When champions are pushed to the edge of their limits, we discover who they truly are.  Their deeds make them the legends of this world, but it’s what motivates them that makes them relatably human. 
 ---
 
-### A wallpaper series using shapes and light by [Jean-Marc Denis](http://jmd.im/black)
-
-I used a poly reduction on the mesh as a proxy to be able to create my studio setup with a responsive viewport. I used a simple 2 point lighting setup. I created a roughness map using the height map to get the exact results I was looking. After that, I applied my material to the high poly mesh and used a subtle smoothing deformer for the creases.
-
-This is the final render.
+Awaken is a music driven story piece meant to evoke relatable player emotions through the stories of characters.  It was created as the marquee film for the marketing campaign to open the 2019 season of League of Legends.  In addition to what is seen on screen we wrote the stories that come before and after these moments in order to achieve more realistic depths to the characters and their performances.
 
 <div class="kg-card kg-image-card kg-width-full">
 
-![Darkness](./BLACK_II_desktop-1.jpg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zF5Ddo9JdpY?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 
