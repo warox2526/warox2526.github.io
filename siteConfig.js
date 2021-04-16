@@ -1,7 +1,7 @@
 module.exports = {
   name: 'Matt Costa',
   shortName: 'Matt Costa',
-  description: 'Writer. Director. Storyteller.',
+  description: 'Director. Writer. Storyteller.',
   url: 'https://mattcosta.me',
   prefix: '/',
   author: 'Matt Costa',
