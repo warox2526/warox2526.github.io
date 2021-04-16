@@ -1,7 +1,7 @@
 ---
 title: Kai'sa Breach
 date: "2019-05-02"
-thumbnail: ./Kaisa.jpg
+thumbnail: ./kaisa.jpg
 description: To survive amongst monsters, become one.  Kai’sa learned this lesson as a little girl.  Now as she’s grown up she has to grapple with not being of the void, but not being like other humans either.  Like most coming of age characters, she is trying to find her place in the world.
 ---
 
