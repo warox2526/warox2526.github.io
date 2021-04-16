@@ -15,7 +15,7 @@ description: For years, Lucian was a man consumed by vengeance, on the hunt for 
 
 The Senna story was an opportunity to move one of our most well established character arcs forward with the release of Lucian’s wife Senna.  This was a larger more story focused campaign than we would typically do for a single champion release, but it was something I pushed for as I knew the return of Lucian's wife was an important moment for players to experience alongside Lucian.  I was creative director for the overall story campaign and co-wrote/director for the animated portions.
 
-**Part 1:**  [Redeemed](https://universe.leagueoflegends.com/en_US/story/redeemed) by Phillip Vargas
+**Part 1:**  [Homebound](https://universe.leagueoflegends.com/en_US/story/homebound/) by Phillip Vargas
 
 **Part 2:** Dark Passage
 <div class="post-content-body-wide">
