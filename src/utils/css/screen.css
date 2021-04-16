@@ -131,6 +131,10 @@ body {
     margin: 0 20px;
 }
 
+.center {
+    text-align: center;
+}
+
 
 /* Site Navigation
 /* ---------------------------------------------------------- */
@@ -562,6 +566,19 @@ body {
     }
 }
 
+.post-content-body-wide {
+    position: relative;
+    width: 75vw;
+    min-width: 100%;
+    margin-left: calc(50% - 50vw);
+    margin-right: calc(50% - 50vw);
+    transform: translateX(calc(50vw - 50%));
+}
+
+.post-subtitle {
+    text-align: center;
+}
+
 .post-content-body h1,
 .post-content-body h2,
 .post-content-body h3,
@@ -643,7 +660,7 @@ body {
 }
 
 .post-content-body hr {
-    margin: 4vw 0;
+    margin: 1.5vw 0;
 }
 
 .post-content-body hr:after {

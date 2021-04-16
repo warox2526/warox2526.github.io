@@ -18,36 +18,20 @@ const AboutPage = ({ data }, location) => {
       <article className="post-content page-template no-image">
         <div className="post-content-body">
           <h2 id="clean-minimal-and-deeply-customisable-london-is-a-theme-made-for-people-who-appreciate-simple-lines-">
-            Clean, minimal, and deeply customisable. London is a theme made for
-            people who appreciate simple lines.
+          Matt is a storytelling focused Creative Director with a background in filmmaking.
           </h2>
           <figure className="kg-card kg-image-card kg-width-full">
             <Img
               fluid={data.benchAccounting.childImageSharp.fluid}
               className="kg-image"
             />
-            <figcaption>Large imagery is at the heart of this theme</figcaption>
           </figure>
-          <h3 id="dynamic-styles">Dynamic styles</h3>
+          <h3 id="dynamic-styles">Bio</h3>
           <p>
-            London comes with photo-centric main layout best suited to
-            photography, graphics portfolios and other image-heavy uses.
+          Matt Costa is a creative director for Riot Games.  He focuses primarily on story focused marketing campaigns for League of Legends.  On those campaigns he also writes and directs story content.  As a storyteller, Matt focuses on telling the stories behind the action in the hopes of developing a deeper connection between the champions and the players. One of his guiding principles is that champions are people too.  
           </p>
           <p>
-            Both post and page templates are light and minimal, with all the
-            focus on the content while the design of the theme gets out of the
-            way. Beneath the hood, London enjoys the full power of the{" "}
-            <a href="https://docs.ghost.org/api/handlebars-themes/">
-              Ghost Handlebars Theme API
-            </a>{" "}
-            to provide limitless customisation options and dynamic styles.
-          </p>
-          <p>
-            Don't forget to check out the{" "}
-            <a href="https://docs.ghost.org/integrations/">
-              Ghost Integrations Directory
-            </a>{" "}
-            for more ways to integrate Ghost with your favourite services.
+          In addition to his work for Riot, Matt is developing multiple long form storytelling projects.  His background is in film and animation, with a degree in Film Studies from the University of Pittsburgh and a Masters Degree from Carnegie Mellon University in Entertainment Technology, a joint degree between the Schools of Drama and Computer Science.  Matt has also been a long time volunteer on the committee for the Siggraph Computer Animation Festival.
           </p>
         </div>
       </article>
@@ -63,7 +47,7 @@ const indexQuery = graphql`
       }
     }
     benchAccounting: file(
-      relativePath: { eq: "bench-accounting-49909-unsplash.jpg" }
+      relativePath: { eq: "aboutme2.png" }
     ) {
       childImageSharp {
         fluid(maxWidth: 1360) {
