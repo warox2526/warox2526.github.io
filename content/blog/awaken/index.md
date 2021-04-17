@@ -13,3 +13,11 @@ description:  To create beauty, to feel alive, to protect the things they love, 
 
 <h6 class="post-subtitle">Project Details</h6>
 Awaken is a music driven story piece meant to evoke relatable player emotions through the stories of characters.  It was created as the marquee film for the marketing campaign to open the 2019 season of League of Legends.  In addition to what is seen on screen we wrote the stories that come before and after these moments in order to achieve more realistic depths to the characters and their performances.
+
+![Irelia](./Irelia2.jpg)
+![Draven](./Draven_01.jpg)
+![Camille](./Camille_01.jpg)
+![JhinCamille](./Jhin_Camille_01.jpg)
+![RivenDraven](./Draven_Riven_01.jpg)
+
+

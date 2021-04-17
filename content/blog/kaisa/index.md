@@ -13,15 +13,22 @@ description: To survive amongst monsters, become one.  Kai’sa learned this les
 
 <!-- [Read the comic](https://na.leagueoflegends.com/en/featured/kaisa-comic) -->
 <div class="center">
-  <a href="https://na.leagueoflegends.com/en/featured/kaisa-comic" class="button primary large">Read the Comic</a>
+  <a href="https://na.leagueoflegends.com/en/featured/kaisa-comic" class="button primary large">Read the Full Comic</a>
 </div>
 
 <div class="kg-card kg-image-card kg-width-wide">
 
-![Kai'sa](./kaisa_keyart_jchan_01.jpg)
+![Kai'sa](./Kaisa_02_Live.jpg)
+![Kai'sa](./Kaisa_07_Live.jpg)
+![Kai'sa](./Kaisa_16_Live.jpg)
+
+Creative Direction and Story by Matt Costa
+
+Art by Elena Bespelova
+
+Layouts by Dan Norton
+
+Written and Story by Phillip Vargas
+
 
 </div>
-
-Before down scoping this project, we developed a cinematic trailer to introduce Kai'sa's character.  Read the script here.
-
-Concept Art by Jason Chan
