@@ -5,7 +5,7 @@ thumbnail: ./KaisaCover.jpg
 description: To survive amongst monsters, become one.  Kai’sa learned this lesson as a little girl.  Now as a grown woman she has to grapple with not being of the void, but not being wholly human either.  Like most coming of age characters, she is trying to find her place in the world.
 ---
 
-<div class="kg-card kg-image-card kg-width-full">
+<div class="kg-card kg-image-card kg-width-wide">
 
 ![Kai'sa](./kaisa.jpg)
 
@@ -16,7 +16,7 @@ description: To survive amongst monsters, become one.  Kai’sa learned this les
   <a href="https://na.leagueoflegends.com/en/featured/kaisa-comic" class="button primary large">Read the Full Comic</a>
 </div>
 
-<div class="kg-card kg-image-card kg-width-full">
+<div class="kg-card kg-image-card kg-width-wide">
 
 ![Kai'sa](./Kaisa_02_Live.jpg)
 ![Kai'sa](./Kaisa_07_Live.jpg)

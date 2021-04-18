@@ -14,19 +14,44 @@ class BlogPostTemplate extends React.Component {
         <style
           dangerouslySetInnerHTML={{
             __html: `
-          .post-content-body-wide {
-            position: relative;
-            width: 75vw;
-            min-width: 100%;
-            margin-left: calc(50% - 50vw);
-            margin-right: calc(50% - 50vw);
-            transform: translateX(calc(50vw - 50%));
-          }
-        
-          post-subtitle {
-            text-align: center;
-          }
-        `
+            .kg-width-wide {
+              position: relative;
+              width: 75vw;
+              min-width: 100%;
+              margin-left: calc(50% - 50vw);
+              margin-right: calc(50% - 50vw);
+              transform: translateX(calc(50vw - 50%));
+            }
+            
+            .post-content-body-wide {
+              position: relative;
+              width: 75vw;
+              min-width: 100%;
+              margin-left: calc(50% - 50vw);
+              margin-right: calc(50% - 50vw);
+              transform: translateX(calc(50vw - 50%));
+            }
+          
+            .post-subtitle {
+              font-size: 2.2rem;
+              text-align: center;
+            }
+
+            .button.primary {
+              font-weight: 700;
+            }
+
+            hr {
+              position: relative;
+              display: block;
+              width: 100%;
+              margin: 2.5em 0 3.5em;
+              padding: 0;
+              height: 1px;
+              border: 0;
+              margin: 1.5vw 0;
+            }
+          `
           }}
         />
         <SEO

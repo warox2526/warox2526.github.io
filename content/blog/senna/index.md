@@ -5,7 +5,7 @@ thumbnail: ./ShadowsEmbrace.png
 description: For years, Lucian was a man consumed by vengeance, on the hunt for Thresh.  Over this three part story arc, we moved Lucian from grief, to acceptance, to disbelief and finally brought him back to love or rather brought his love back to him.  Lucian had accomplished his mission, but Senna’s was just getting started.
 ---
 
-<div class="kg-card kg-image-card kg-width-full">
+<div class="kg-card kg-image-card kg-width-wide">
 
 ![Shadows Embrace](ShadowsEmbrace.png)
 

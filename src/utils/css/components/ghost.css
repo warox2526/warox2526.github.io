@@ -38,8 +38,7 @@
 
 .kg-width-full {
   position: relative;
-  /* width: 94vw; */
-  width: 75vw;
+  width: 94vw;
   min-width: 100%;
   margin-left: calc(50% - 50vw);
   margin-right: calc(50% - 50vw);
