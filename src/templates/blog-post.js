@@ -46,7 +46,7 @@ class BlogPostTemplate extends React.Component {
             .button.large {
               height: calc(var(--height) * 1.14);
               line-height: calc(var(--height) * 1.14);
-              padding: 0 3rem;
+              padding: 1.2rem 3rem;
               font-size: 1.6rem;
             }
 
