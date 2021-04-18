@@ -1,17 +1,13 @@
-import React from "react"
-import { Link } from "gatsby"
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import {
-  faEnvelope,
-} from '@fortawesome/free-solid-svg-icons'
-import {
-  faLinkedinIn,
-} from '@fortawesome/free-brands-svg-icons'
-import "../utils/css/screen.css"
+import React from "react";
+import { Link } from "gatsby";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faEnvelope } from "@fortawesome/free-solid-svg-icons";
+import { faLinkedinIn } from "@fortawesome/free-brands-svg-icons";
+import "./layout.css";
 
 const Layout = props => {
-  const { title, children } = props
-  const [toggleNav, setToggleNav] = React.useState(false)
+  const { title, children } = props;
+  const [toggleNav, setToggleNav] = React.useState(false);
   return (
     <div className={`site-wrapper ${toggleNav ? `site-head-open` : ``}`}>
       <header className="site-head">
@@ -37,8 +33,7 @@ const Layout = props => {
               {title}
             </Link>
           </nav>
-          <div className="site-head-center">
-          </div>
+          <div className="site-head-center"></div>
           <div className="site-head-right">
             <ul className="nav" role="menu">
               <li className="nav-home nav-current" role="menuitem">
@@ -57,11 +52,15 @@ const Layout = props => {
         </div>
       </main>
       <footer className="site-foot">
-        <a href="mailto:matthew.costa25@gmail.com"><FontAwesomeIcon icon={faEnvelope} size="2x" /></a>
-        <a href="http://linkedin.com/in/matthewcosta" target="_blank"><FontAwesomeIcon icon={faLinkedinIn} size="2x" /></a>
+        <a href="mailto:matthew.costa25@gmail.com">
+          <FontAwesomeIcon icon={faEnvelope} size="2x" />
+        </a>
+        <a href="http://linkedin.com/in/matthewcosta" target="_blank">
+          <FontAwesomeIcon icon={faLinkedinIn} size="2x" />
+        </a>
       </footer>
     </div>
-  )
-}
+  );
+};
 
-export default Layout
+export default Layout;
