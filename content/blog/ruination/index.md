@@ -16,7 +16,13 @@ Shadow’s Embrace purposefully left a lot of questions for players about the fu
 
 ![Senna](./Senna_1.jpg)
 ![SennaLook](./SennaLook.jpg)
+![TheMist](./TheMist.jpg)
 ![RuinationV](./RuinationV.jpg)
+![SoulPull](./SoulPull.jpg)
 ![SamiraNotices](./SamiraNotices.jpg)
 ![Noxus_1](./Noxus_1.jpg)
+![RuinIonia](./RuinIonia.jpg)
+![Karma2](./Karma_2.jpg)
+![Karma4](./Karma_4.jpg)
 ![Poppy](./Poppy_2.jpg)
+![RuinationFall](./RuinationFall.png)

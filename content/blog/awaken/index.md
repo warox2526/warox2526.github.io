@@ -2,7 +2,7 @@
 title: Awaken
 date: "2019-05-08"
 thumbnail: ./Sion_01.jpg
-description:  To create beauty, to feel alive, to protect the things they love, these are the reasons they fight.  When champions are pushed to the edge of their limits, we discover who they truly are.  Their deeds make them the legends of this world, but it’s what motivates them that makes them relatably human. 
+description: To create beauty, to feel alive, to protect the things they love, these are the reasons they fight.  When champions are pushed to the edge of their limits, we discover who they truly are.  Their deeds make them the legends of this world, but it’s what motivates them that makes them relatably human.
 ---
 
 <div class="post-content-body-wide">
@@ -12,12 +12,15 @@ description:  To create beauty, to feel alive, to protect the things they love, 
 </div>
 
 <h6 class="post-subtitle">Project Details</h6>
-Awaken is a music driven story piece meant to evoke relatable player emotions through the stories of characters.  It was created as the marquee film for the marketing campaign to open the 2019 season of League of Legends.  In addition to what is seen on screen we wrote the stories that come before and after these moments in order to achieve more realistic depths to the characters and their performances.
+Awaken is a music driven story piece meant to evoke relatable player emotions through the stories of champions.  It was created as the marquee film for the marketing campaign to open the 2019 season of League of Legends.  In addition to what is seen on screen, we wrote the stories that come before and after these moments in order to achieve more realistic depths to the characters and their performances.
 
+![Ionia](./Ionia.jpg)
+![Irelia](./Irelia.jpg)
 ![Irelia](./Irelia2.jpg)
-![Draven](./Draven_01.jpg)
+![Jhin](./Jhin.jpg)
 ![Camille](./Camille_01.jpg)
+![Trap](./Trap.jpg)
 ![JhinCamille](./Jhin_Camille_01.jpg)
+![Riven](./Riven.jpg)
+![Draven](./Draven_01.jpg)
 ![RivenDraven](./Draven_Riven_01.jpg)
-
-
