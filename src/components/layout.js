@@ -7,6 +7,7 @@ import {
 import {
   faLinkedinIn,
 } from '@fortawesome/free-brands-svg-icons'
+import "../utils/css/screen.css"
 
 const Layout = props => {
   const { title, children } = props
