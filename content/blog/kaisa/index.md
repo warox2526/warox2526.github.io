@@ -5,7 +5,7 @@ thumbnail: ./KaisaCover.jpg
 description: To survive amongst monsters, become one.  Kai’sa learned this lesson as a little girl.  Now as a grown woman she has to grapple with not being of the void, but not being wholly human either.  Like most coming of age characters, she is trying to find her place in the world.
 ---
 
-<div class="kg-card kg-image-card kg-width-wide">
+<div class="kg-card kg-image-card kg-width-wide kg-width-full">
 
 ![Kai'sa](./kaisa.jpg)
 

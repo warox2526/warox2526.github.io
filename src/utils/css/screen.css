@@ -559,7 +559,6 @@ body {
 .post-content-body {
     font-size: 1.9rem;
     line-height: 1.65em;
-    color: red;
 }
 @media (max-width: 500px) {
     .post-content-body {
