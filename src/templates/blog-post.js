@@ -33,12 +33,21 @@ class BlogPostTemplate extends React.Component {
             }
           
             .post-subtitle {
+              color: black;
               font-size: 2.2rem;
               text-align: center;
+              margin: 1.5em 0 1em 0;
             }
 
             .button.primary {
               font-weight: 700;
+            }
+
+            .button.large {
+              height: calc(var(--height) * 1.14);
+              line-height: calc(var(--height) * 1.14);
+              padding: 0 3rem;
+              font-size: 1.6rem;
             }
 
             hr {
