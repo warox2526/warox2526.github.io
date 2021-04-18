@@ -34,3 +34,14 @@ The Senna story was an opportunity to move one of our most well established char
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZjvDFvzfxsQ?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
+
+![Lucian1](./Lucian_1.jpg)
+![Hook](./Hook.jpg)
+![Faceoff](./Faceoff.jpg)
+![Vortex](./Vortex.jpg)
+![Lucian3](./Lucian_3.jpg)
+![GunShot](./GunShot.jpg)
+![Lantern](./Lantern.jpg)
+![Hug](./Hug.jpg)
+![Lucian4](./Lucian_4.jpg)
+![Senna_2](./Senna_2.jpg)
