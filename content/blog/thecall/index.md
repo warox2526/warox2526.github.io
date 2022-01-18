@@ -17,7 +17,7 @@ The Call is a music driven story piece.  It is in the style of Season cinematics
 This cinematic was created as the marquee film for the Season 2022 marketing campaign. In addition to the cinematic, I also worked with the narrative team to have stories written that expanded the moment and add depth to the events on screen.
 
 ![Ornn](./Ornn_1.png)
-![KaiTal](./KaisaTaliyah.png)
+![Statue](./Statue.png)
 ![Xersai](./Xersai.png)
 ![Reksai](./Reksai.png)
 ![Targon](./Targon.png)
