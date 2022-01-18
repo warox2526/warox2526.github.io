@@ -1,7 +1,7 @@
 ---
 title: The Call
 date: "2022-01-07"
-thumbnail: ./Statue.png
+thumbnail: ./KaisaTaliyah.png
 description: Facing forces greater than themselves can cause even the most legendary warriors to question their path.  To question themselves.  It is in these circumstances that test their resolve, where a champion’s will is forged.  When the moment calls, they must shed the chains of leadership to unleash the warrior within,  embrace their duty to the fallen and sacrifice one's self to protect those they care about.
 ---
 
