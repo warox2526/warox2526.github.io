@@ -15,7 +15,7 @@ description: On some level, Senna had always known the threat that the power ins
 Shadow’s Embrace purposefully left a lot of questions for players about the future for Senna and Lucian after being reunited.  The popularity of their story gave us an opportunity to revisit it and show how the consequences of their story would affect the stories of other champions throughout the world.  We did that in Ruination to kick off the 2021 Season of LoL and set up future storytelling throughout the year.
 
 ![Senna](./Senna_1.jpg)
-![Lucian](./Lucian_2.jpg)
+![Lucian](./Lucian_2.png)
 ![TheMist](./TheMist.jpg)
 ![RuinationV](./RuinationV.jpg)
 ![SoulPull](./SoulPull.jpg)
