@@ -24,9 +24,15 @@
 
 1. **To deploy**
 
-Github Pages is configured to use content from `gh-pages` branch.
+The website is deployed to netlify automatically when merged to `main` branch. Login via your github account to see the netlify deployments. We can find out the netlify app by looking at the domain's DNS record.
 
 ```sh
-  npm run build
-  git push origin gh-pages
+  dig www.mattcosta.me +nostats +nocomments +nocmd
+
+; <<>> DiG 9.10.6 <<>> www.mattcosta.me +nostats +nocomments +nocmd
+;; global options: +cmd
+;www.mattcosta.me.              IN      A
+www.mattcosta.me.       1800    IN      CNAME   thirsty-bardeen-29c899.netlify.app.
+thirsty-bardeen-29c899.netlify.app. 60 IN A     13.57.148.141
+thirsty-bardeen-29c899.netlify.app. 60 IN A     52.9.166.110
 ```
