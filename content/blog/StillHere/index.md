@@ -7,7 +7,7 @@ description: “Tomorrow is a hope, never a promise.”  Throughout the history 
 
 <div class="post-content-body-wide">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZHhqwBwmRkI?si=DhFxtZWCHDTWi2AF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZHhqwBwmRkI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 
@@ -16,7 +16,7 @@ The season 2024 campaign was a crucial inflection point for League of Legends.  
 
 ![Morgana](./MorganaEyes_10.jpg)
 ![AKSky](./AatroxKayle0.jpg)
-![Aatrox](./AatroxBound0)
+![Aatrox](./AatroxBound0.jpg)
 ![Kayle](./KayleCU20.jpg)
 ![Yasuo](./YasuoArrowSplit0.jpg)
 ![Cowboy](./Yasuocowboy0.jpg)
