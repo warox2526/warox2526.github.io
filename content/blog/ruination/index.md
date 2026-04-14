@@ -7,7 +7,7 @@ description: On some level, Senna had always known the threat that the power ins
 
 <div class="post-content-body-wide">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8PbhGt8XxSM?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8PbhGt8XxSM?si=DWUk5K1xB6lDGTmV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </div>
 

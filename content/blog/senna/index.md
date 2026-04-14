@@ -21,7 +21,7 @@ The Senna story was an opportunity to move one of our most well established char
 
 <div class="post-content-body-wide">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BWjbBlvf9cw?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BWjbBlvf9cw?si=VPZBMPtwjaevIVsD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </div>
 
@@ -31,8 +31,7 @@ The Senna story was an opportunity to move one of our most well established char
 
 <div class="post-content-body-wide">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZjvDFvzfxsQ?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZjvDFvzfxsQ?si=EE-GWj-TFDn_dZT4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ![Lucian1](./Lucian_1.jpg)
