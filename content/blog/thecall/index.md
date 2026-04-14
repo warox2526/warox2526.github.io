@@ -7,7 +7,7 @@ description: Facing forces greater than themselves can cause even the most legen
 
 <div class="post-content-body-wide">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mDYqT0_9VR4?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mDYqT0_9VR4?si=wITX7l1Hd6vl_SbI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </div>
 
