@@ -24,7 +24,7 @@
 
 1. **To deploy**
 
-The website is deployed to netlify automatically when merged to `main` branch. Login via your github account to see the netlify deployments. We can find out the netlify app by looking at the domain's DNS record.
+The website is deployed to netlify automatically when merged to `main` branch. This is enabled automatically by netlify. [Login](https://app.netlify.com/) via your github account to see the netlify deployments. We can find out the netlify app by looking at the domain's DNS record.
 
 ```sh
   dig www.mattcosta.me +nostats +nocomments +nocmd
