@@ -1,6 +1,6 @@
 ---
 title: Awaken
-date: "2019-05-08"
+date: "2022-05-08"
 thumbnail: ./Sion_01.jpg
 description: To create beauty, to feel alive, to protect the things they love, these are the reasons they fight.  When champions are pushed to the edge of their limits, we discover who they truly are.  Their deeds make them the legends of this world, but it’s what motivates them that makes them relatably human.
 ---
