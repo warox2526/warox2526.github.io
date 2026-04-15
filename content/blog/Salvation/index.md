@@ -2,8 +2,7 @@
 title: Salvation
 date: "2025-01-06"
 thumbnail: ./City.jpg
-description: | 
-"To be Demacian is to follow the Path of the Righteous.  To be Guardians of the Greater Good.  Defenders of Hope, Deliverers of Justice."  The Promise of Demacia.
+description: "To be Demacian is to follow the Path of the Righteous. To be Guardians of the Greater Good. Defenders of Hope, Deliverers of Justice." The Promise of Demacia.
 ---
 
 <div class="post-content-body-wide">
