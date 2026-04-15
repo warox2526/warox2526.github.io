@@ -2,12 +2,12 @@
 title: Project Honey
 date: "2025-01-07"
 thumbnail: ./MelPowerup0.jpg
-description: The world of Runeterra is vast with many regions, ideologies, and powerful forces.  It shapes the champions within as much as they shape it.  Xin Zhao was an Ionian, who came of age in Noxus, before becoming the embodiment of Demacian valor.  He understood each culture in a way few in the world could.  This knowledge led him to make the ultimate sacrifice, knowing this was only way a mortal such as him could impact a world inhabited by gods.
+description: The world of Runeterra is vast with many regions, ideologies, and powerful forces.  It shapes the champions within as much as they shape it.  Xin Zhao was an Ionian, who came of age in Noxus, before becoming the embodiment of Demacian valor.  He understood each culture in a way few in the world could.  This knowledge led him to make the ultimate sacrifice.  He knew this was the only way a mortal such as him could impact a world inhabited by gods.
 ---
 
 <div class="kg-card kg-image-card kg-width-wide">
 
-![Welcome To Noxus](KatElise0.jpg)
+![XinFlower](Hon3flo.png)
 
 </div>
 
@@ -53,10 +53,10 @@ I had the chance to speak at SDCC Malaga alongside some of my collaborators from
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f9rlCruxuO4?si=7V1gmu_iUSAwTA23" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+![KatElise](./KatElise0.jpg)
 ![Darius](./DariusStruggle0.jpg)
 ![Honey2](./Hon2LB.png)
 ![Fight](./Hon3Fight.png)
 ![Yunara](./Hon3Yun.png)
-![Flowers](./Hon3flo.png)
 ![Zaahen](./Hon3Z.png)
 ![End](./Hon3Scale.png)
