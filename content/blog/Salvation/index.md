@@ -1,7 +1,7 @@
 ---
 title: Salvation
 date: "2025-01-06"
-thumbnail: ./City.jpg
+thumbnail: ./GarenUlt.jpg
 description: To be Demacian is to follow the Path of the Righteous.  To be  Guardians of the Greater Good, Defenders of Hope, Deliverers of Justice.  This is the promise of Demacia.
 ---
 
@@ -14,7 +14,7 @@ description: To be Demacian is to follow the Path of the Righteous.  To be  Guar
 <h6 class="post-subtitle">Project Details</h6>
 This Season Start cinematic was very nostalgic for me.  I grew up on stories of King Arthur and knights and shining armor.  In this we want to make it aspirational to be virtuous hero and show the dream of a place dedicated to protecting those who are willing to protect others from the magic and dangers of the world.  Demacia itself needed to be the overarching character that brought all the others together.  Everything builds towards the arrival at the capital city where all the individual stories ideals' live.
 
-![Garen](./GarenUlt.jpg)
+![City](./City.jpg)
 ![Dragon](./DragonFight.jpg)
 ![Sona](./Sona.jpg)
 ![Valor](./Valor.jpg)
