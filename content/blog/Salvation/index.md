@@ -2,7 +2,7 @@
 title: Salvation
 date: "2025-01-06"
 thumbnail: ./City.jpg
-description: "To be Demacian is to follow the Path of the Righteous. To be Guardians of the Greater Good. Defenders of Hope, Deliverers of Justice." The Promise of Demacia.
+description: The world of Runeterra is vast with many regions, ideologies, and powerful forces.  It shapes the champions within as much as they shape it.  Xin Zhao was an Ionian, who came of age in Noxus, before becoming the embodiment of Demacian valor.  He understood each culture in a way few in the world could.  This knowledge led him to make the ultimate sacrifice, knowing this was only way a mortal such as him could impact a world inhabited by gods.
 ---
 
 <div class="post-content-body-wide">
