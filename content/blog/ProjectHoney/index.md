@@ -35,12 +35,6 @@ Across 2025 we wanted to take players on journey that begin in Noxus and ended i
 
 <div class="post-content-body-wide">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Myx2AU_GxNU?si=SCzY2APNK1pQSY9h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-</div>
-
-<div class="post-content-body-wide">
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bDMqoIq1kjo?si=Bp26rCQjxV3RHL4w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </div>
