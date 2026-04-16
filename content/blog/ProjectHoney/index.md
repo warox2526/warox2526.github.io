@@ -13,7 +13,7 @@ description: The world of Runeterra is vast with many regions, ideologies, and p
 
 <h6 class="post-subtitle">Project Details</h6>
 
-Across 2025 we wanted to take players on journey that begin in Noxus and ended in the release of Zaahen. I worked as one of the primary architects of this year long story that took place in and around game. Additionally I the was lead on the four major cinematic story pieces. I co-wrote each piece and, alongside Fortiche, directed the four cinematics.
+Across 2025 we wanted to take players on journey that began in Noxus and ended in the release of Zaahen. I worked as one of the primary architects of this year long story that took place in and around game. Additionally I the was lead on the four major cinematic story pieces. I co-wrote each piece and, alongside Fortiche, directed the four cinematics.
 
 <div class="post-content-body-wide">
 
